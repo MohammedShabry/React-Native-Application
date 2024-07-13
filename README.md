@@ -18,10 +18,10 @@ Include screenshots of your application here, demonstrating its features. For ex
 - Character List Screen
 - Profile Screen
 
-![WhatsApp Image 2024-07-13 at 16 21 32_fb81e371](https://github.com/user-attachments/assets/19a01ba6-ef5c-410a-9e7d-645cf9296d7f)
-![WhatsApp Image 2024-07-13 at 16 21 32_0669dbb0](https://github.com/user-attachments/assets/96fa2d71-8af4-41cb-99a6-c9f9b8839672)
-![WhatsApp Image 2024-07-13 at 16 21 31_534e8eda](https://github.com/user-attachments/assets/2628ca13-0580-4d56-98ed-ff8db021a4f9)
-![WhatsApp Image 2024-07-13 at 16 21 31_bd10ab96](https://github.com/user-attachments/assets/17ba99b6-e312-4a2d-b33d-37f1d6ceb1d3)
+<img src="https://github.com/user-attachments/assets/19a01ba6-ef5c-410a-9e7d-645cf9296d7f" width="200" />
+<img src="https://github.com/user-attachments/assets/96fa2d71-8af4-41cb-99a6-c9f9b8839672" width="200" />
+<img src="https://github.com/user-attachments/assets/2628ca13-0580-4d56-98ed-ff8db021a4f9" width="200" />
+<img src="https://github.com/user-attachments/assets/17ba99b6-e312-4a2d-b33d-37f1d6ceb1d3" width="200" />
 
 # Technologies Used
 
@@ -30,4 +30,3 @@ Include screenshots of your application here, demonstrating its features. For ex
 - Redux (State Management)
 - Thrones API
 - MongoDB
-
